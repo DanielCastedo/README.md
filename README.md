@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-My name is **Daniel Castedo Suárez**, a Computer Engineering student at the Faculty of Engineering in Computer Science and Telecommunications (since 2021). I'm currently in my sixth and seventh semesters.
+My name is Daniel Castedo Suárez. I am a Systems Engineer, a graduate of the Faculty of Engineering in Computer Science and Telecommunications at U.A.G.R.M. I specialize in web development and am currently also pursuing a degree in Computer Engineering.
 
 ## Favorite Programming Languages
 
